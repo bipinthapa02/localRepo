@@ -6,3 +6,8 @@ h2 {
   color: chocolate;
   font-style: italic;
 }
+p{
+    color: coral;
+    font-size: large;
+    font-style: oblique;
+}
